@@ -86,7 +86,7 @@
 
 					<div class="text-center p-t-12">
 						<span class="txt1">
-							Back to 
+							Hello 
 						</span>
 						<a class="txt2" href="/">
 							 Sign in !!
